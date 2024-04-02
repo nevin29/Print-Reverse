@@ -1,11 +1,4 @@
 import java.util.Scanner;
-// Name: <Nevin Gutta>
-
-// Class: CS 3305
-
-// Term: Spring 2024
-
-// Instructor: Umama Tasnim
 
 public class PrintReverseNevinGutta {
     //Reverse String method using Recursion
